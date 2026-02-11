@@ -7,6 +7,10 @@
   "bin": {
     "smart-env": "dist/cli.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohit9889/smart-env-validator.git"
+  },
   "files": [
     "dist",
     "README.md"
